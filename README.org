@@ -15,4 +15,4 @@ only tested on konsole with default setting.
 
 ** Example images
 *** Grid
-![grid_function](https://user-images.githubusercontent.com/71960289/98656187-4e13e700-2338-11eb-9b73-4f647f2f3775.png)
+https://user-images.githubusercontent.com/71960289/98656187-4e13e700-2338-11eb-9b73-4f647f2f3775.png
