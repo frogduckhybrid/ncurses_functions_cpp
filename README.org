@@ -3,18 +3,8 @@
 ** Testing
 only tested on konsole with default setting. 
 
-** Function List
-  fill
-  fill_randomly
-  cross
-  grid
-  dotted_v_line
-  dotted_h_line
-  polka_dot
-  checker
-
 ** Example images
 *** Grid
 https://user-images.githubusercontent.com/71960289/98656187-4e13e700-2338-11eb-9b73-4f647f2f3775.png
 *** fill_randomly
-![fill_randomly](https://user-images.githubusercontent.com/71960289/98656841-0fcaf780-2339-11eb-9713-d9164653fd75.png)
+https://user-images.githubusercontent.com/71960289/98656841-0fcaf780-2339-11eb-9713-d9164653fd75.png
