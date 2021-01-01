@@ -5,7 +5,6 @@
 //Project Directives
 #include "headers/screen.hpp"
 
-
 //Main Function
 int main(int argc, char** argv){
   initscr();
